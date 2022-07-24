@@ -1,0 +1,16 @@
+
+
+*{
+    padding: 0;
+    margin: 0;
+
+}
+
+
+.logo{
+    width: 100px;
+}
+
+.navbar-brand{
+    margin-left: 10px;
+}
